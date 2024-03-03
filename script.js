@@ -1,4 +1,4 @@
-/***** REFERENCES *****/
+/***** REFERENCES *******/
 const playerContainer = document.getElementById('all-players-container');
 console.log(playerContainer);
 const newPlayerFormContainer = document.getElementById('new-player-form');
